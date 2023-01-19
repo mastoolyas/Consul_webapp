@@ -6,3 +6,4 @@ Jinja2==2.10
 MarkupSafe==1.1.1
 Werkzeug==0.15.2
 pytest==3.0.7
+python-consul==1.1.0
