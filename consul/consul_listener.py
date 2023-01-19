@@ -10,7 +10,7 @@ import time
 import subprocess
 
 consul_client = consul.Consul(
-    host='consul',
+    host='localhost',
     port=8500,
 )
 
